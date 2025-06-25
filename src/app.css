@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-new-amsterdam: "New Amsterdam", "sans-serif";
+}

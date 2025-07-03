@@ -50,7 +50,6 @@
       <div class="flex items-center justify-center h-full z-10 relative">
         <h1
           class="
-          font-new-amsterdam
           relative inline-block text-6xl md:text-8xl
           xl:text-[11rem] font-bold text-white tracking-wide"
         >
